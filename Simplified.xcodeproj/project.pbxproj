@@ -124,6 +124,7 @@
 		2DFAC8ED1CD8DDD1003D9EC0 /* NYPLOPDSCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = 2DFAC8EC1CD8DDD1003D9EC0 /* NYPLOPDSCategory.m */; };
 		34CAC8A61E428AC90049DC0C /* BCLUrms.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 34CAC8A51E428AC90049DC0C /* BCLUrms.framework */; };
 		34CAC8A71E428AC90049DC0C /* BCLUrms.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 34CAC8A51E428AC90049DC0C /* BCLUrms.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		34D95D241E42CA7300388AA6 /* UrmsSample.epub in Resources */ = {isa = PBXBuildFile; fileRef = 34D95D231E42CA7300388AA6 /* UrmsSample.epub */; };
 		5A5B90181B946D8B002C53E9 /* libstdc++.6.0.9.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A5B90141B946CBD002C53E9 /* libstdc++.6.0.9.dylib */; };
 		5A5B901B1B946FAD002C53E9 /* NYPLReaderContainerDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 5A5B901A1B946FAD002C53E9 /* NYPLReaderContainerDelegate.mm */; };
 		5A69290E1B95ACC600FB4C10 /* readium-shared-js_all.js in Resources */ = {isa = PBXBuildFile; fileRef = 5A69290D1B95ACC600FB4C10 /* readium-shared-js_all.js */; };
@@ -452,6 +453,7 @@
 		2DFAC8EC1CD8DDD1003D9EC0 /* NYPLOPDSCategory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NYPLOPDSCategory.m; sourceTree = "<group>"; };
 		2FBF380CA3C6978E66F4EFAB /* Pods_SimplyE.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SimplyE.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		34CAC8A51E428AC90049DC0C /* BCLUrms.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = BCLUrms.framework; sourceTree = "<group>"; };
+		34D95D231E42CA7300388AA6 /* UrmsSample.epub */ = {isa = PBXFileReference; lastKnownFileType = file; path = UrmsSample.epub; sourceTree = "<group>"; };
 		56A7B7786F9B146602623617 /* Pods-SimplyETests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SimplyETests.release.xcconfig"; path = "Pods/Target Support Files/Pods-SimplyETests/Pods-SimplyETests.release.xcconfig"; sourceTree = "<group>"; };
 		579E9BC126424F2B79C0FE7E /* Pods-SimplyETests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SimplyETests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SimplyETests/Pods-SimplyETests.debug.xcconfig"; sourceTree = "<group>"; };
 		5A569A261B8351C6003B5B61 /* ADEPT.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ADEPT.xcodeproj; path = "adept-ios/ADEPT.xcodeproj"; sourceTree = "<group>"; };
@@ -888,6 +890,7 @@
 				1112A8191A322C53002B8CC1 /* TenPrintCover.xcodeproj */,
 				848FD95A1B83875D009D9BC4 /* NYPL_Launch_Screen.xib */,
 				34CAC8A51E428AC90049DC0C /* BCLUrms.framework */,
+				34D95D231E42CA7300388AA6 /* UrmsSample.epub */,
 				A823D80F192BABA400B55DE2 /* Frameworks */,
 				A823D80E192BABA400B55DE2 /* Products */,
 				A823D816192BABA400B55DE2 /* Simplified */,
@@ -1267,6 +1270,7 @@
 				2D6256911D41582A0080A81F /* software-licenses.html in Resources */,
 				A823D81B192BABA400B55DE2 /* InfoPlist.strings in Resources */,
 				11C113D019F842B9005B3F63 /* reader.html in Resources */,
+				34D95D241E42CA7300388AA6 /* UrmsSample.epub in Resources */,
 				110F853E19D5FA7300052DF7 /* DetailSummaryTemplate.html in Resources */,
 				B594C7561BB06F40000028F5 /* HelpStackTheme.plist in Resources */,
 				111E758B1A840A1600718AD7 /* credits.html in Resources */,
